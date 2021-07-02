@@ -1,5 +1,6 @@
 module.exports = {
   title: '小姜的 Blogs',
+  base: '/blogs/',
   dest: 'dist',
   theme: 'reco',
   themeConfig: {
@@ -7,6 +8,6 @@ module.exports = {
     type: 'blog',
   },
   markdown: {
-    lineNumbers: true
-  }
+    lineNumbers: true,
+  },
 };
