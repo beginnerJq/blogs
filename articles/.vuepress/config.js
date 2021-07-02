@@ -6,4 +6,7 @@ module.exports = {
     author: '姜旗',
     type: 'blog',
   },
+  markdown: {
+    lineNumbers: true
+  }
 };
