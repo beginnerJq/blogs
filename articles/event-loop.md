@@ -1,6 +1,5 @@
 ---
 title: 事件循环（Event loop）概述
-date: 2021-06-23
 author: 姜旗
 ---
 
